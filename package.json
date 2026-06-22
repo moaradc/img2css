@@ -10,7 +10,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://javier.xyz/img2css/",
+  "homepage": ".",
   "repository": {
     "type": "git",
     "url": "https://github.com/javierbyte/img2css.git"
